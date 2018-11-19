@@ -34,8 +34,10 @@ public class ChatMsgAdapter extends ArrayAdapter<ChatMessage> {
 
         ChatMessage  message=getItem(position);
 
-        msgBody.setText(message.getMsg());
-        username.setText(message.getUsername());
+        if(message!=null) {
+            msgBody.setText(message.getMsg());
+            username.setText(message.getUsername());
+        }
 
         return convertView;
     }
