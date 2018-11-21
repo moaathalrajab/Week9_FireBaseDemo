@@ -15,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "318072240418-cs74l1o79dq88lcoi2raj2kpt2of9nvu.apps.googleusercontent.com",
+          "client_id": "318072240418-cs74l1o79dq88lcoi2rajxcvxcv2kpt2of9nvu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.moaathalrajab.week9_firebasedemo",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "318072240418-1mkpm5beq906ts2pldmjad69kcr0qukr.apps.googleusercontent.com",
+          "client_id": "318072240418-1mkpm5beq906ts2pldmjxcvxcvad69kcr0qukr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBiW2tuV7VheKjQ1LRsVIi4Jab9HPx1Plo"
+          "current_key": "AIzaSyBiW2tuV7VheKjQ1LRsVIi4r45Jab9HPfgdfgddfx1Plo"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "318072240418-1mkpm5beq906ts2pldmjad69kcr0qukr.apps.googleusercontent.com",
+              "client_id": "318072240418-1mkpm5beq906ts2p34ldmjasdsdd69kcr0qukr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -49,7 +49,7 @@
           "status": 2
         }
       },
-      "admob_app_id": "ca-app-pub-8476569567844945~4182099115"
+      "admob_app_id": "ca-app-pub-847656956784494xcvx34cvxcv5~41820923429xcvxcvx115"
     }
   ],
   "configuration_version": "1"
